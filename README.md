@@ -23,7 +23,6 @@ User can vote the Candidate, and Admin has the permission to see the vote detail
 - Select Import
 - Select Projects from Git(with smart import) -> Next
 - Select Clone URI -> Next
-- In URI paste this url: https://github.com/swapnilbamble1438/VotingApp.git
   -> Next
 -  Now in Local Destination
 
@@ -74,8 +73,6 @@ User can vote the Candidate, and Admin has the permission to see the vote detail
  -  Application will get Open.
 
  ### Try Javascript Version 
-url: https://swapnilbamble1438.github.io/VotingApplication/
-
 
 ### Some Screenshots of this Project:
 ![Home Page](a1.png)
